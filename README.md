@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm habylrey <3</h1>
-<h3 align="center">Frontend developer from Moscow</h3>
+<h3 align="center">Frontend developer</h3>
 
 - 🌱 I’m currently learning **React.js, Vite, ES6**
 

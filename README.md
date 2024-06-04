@@ -5,7 +5,7 @@
 
  :floppy_disk: I’m currently learning **React.js, JS, TypeScript**
 
- :shipit: How to reach me :email: **habylrey@gmail.com** /  <a href='https://t.me/habylrey'> :paperclip: Telegram<a/>
+ :shipit: How to reach me :email: **habylrey@gmail.com** /  <a href='https://t.me/habylrey'> :paperclip:Telegram<a/>
 
 <p align="left">
 </p>

@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm habylrey <3</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **React.js, Vite, ES6**
+- 🌱 I’m currently learning **React.js, JS, TypeScript**
 
 - 📫 How to reach me **habylrey@gmail.com**
 

@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style='color: red'>
 <h1 align="center">Hi, I'm <strong>habylrey</strong></h1>
 <h3 align="center">Frontend developer</h3>
 

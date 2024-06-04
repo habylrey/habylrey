@@ -2,10 +2,10 @@
 <div align="center" style='color: red'>
 <h1 align="center">Hi, I'm <strong>habylrey</strong></h1>
 <h3 align="center">Frontend developer</h3>
+:floppy_disk:
+ 🌱 I’m currently learning **React.js, JS, TypeScript**
 
-- 🌱 I’m currently learning **React.js, JS, TypeScript**
-
-- 📫 How to reach me **habylrey@gmail.com** / <a href='https://t.me/habylrey'>Telegram<a/>
+ 📫 How to reach me **habylrey@gmail.com** / <a href='https://t.me/habylrey'>Telegram<a/>
 
 <p align="left">
 </p>

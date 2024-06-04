@@ -1,6 +1,4 @@
-h1{
-color: red;
-}
+
 <h1 align="center">Hi, I'm habylrey <3</h1>
 <h3 align="center">Frontend developer</h3>
 

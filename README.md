@@ -1,3 +1,30 @@
+<style>
+      *{
+        box-sizing: border-box;
+        margin: 0 0;
+        font-family: 'Roboto';
+        color: beige;
+      }
+      body {
+        background-color: #242424;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+      }
+      h1 { 
+        text-decoration: none;
+        font-family: 'Roboto';
+        font-weight: 200;
+
+      }
+      h3{
+        font-size: 15px;
+        color: rgb(165, 165, 165);
+      }
+    </style>
 <h1 align="center">Hi, I'm habylrey <3</h1>
 <h3 align="center">Frontend developer</h3>
 

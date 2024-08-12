@@ -4,7 +4,7 @@
 <h3 align="center">Frontend developer</h3>
  
 
- :floppy_disk: I’m currently learning **React.js, JS, TypeScript**
+ :floppy_disk: I’m currently learning **React.js, TypeScript**
 
  :shipit: How to reach me :email: **habylrey@gmail.com** /  <a href='https://t.me/habylrey'> :paperclip:Telegram<a/>
 

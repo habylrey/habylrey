@@ -1,10 +1,8 @@
 
 <div align="center" style='color: red'>
-<h1 align="center">Hi, I'm <strong>habylrey</strong></h1>
-<h3 align="center">Frontend developer</h3>
- 
 
- :floppy_disk: I’m currently learning **React.js, TypeScript**
+
+ :floppy_disk: I’m currently learning **React.js, TypeScript, Node.js**
 
  :shipit: How to reach me :email: **habylrey@gmail.com** /  <a href='https://t.me/habylrey'> :paperclip:Telegram<a/>
 

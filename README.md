@@ -2,7 +2,7 @@
 <div align="center" style='color: red'>
 
 
- :floppy_disk: I’m currently learning **React.js, TypeScript, Node.js**
+ :floppy_disk: I’m currently learning **Node.js / React.js / Typescript**
 
  :shipit: How to reach me :email: **habylrey@gmail.com** /  <a href='https://t.me/habylrey'> :paperclip:Telegram<a/>
 

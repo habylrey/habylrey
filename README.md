@@ -1,8 +1,5 @@
 
 <div align="center" style='color: red'>
-
-
- I’m currently learning **Node.js / React.js / Typescript**
  
 <div align="center"> 
   <a href="mailto:habylrey@gmail.com"><img alt="mail icon" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
